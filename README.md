@@ -1,4 +1,4 @@
- Hey, I'm Leo 👋
+Hey, I'm Leo 👋
 
 Auditor turned Data & AI Engineer 🇧🇷
 
@@ -6,16 +6,16 @@ I spent years evaluating internal controls at KPMG and building governance frame
 
 ---
 
-## 🔍 What I bring to the table
+##What I bring to the table
 
-- 🏛 **3+ years** in Internal Audit & Corporate Governance
-- 📊 **Data & AI Engineer** — Python · SQL · Pandas · Machine Learning
-- 🤖 Future focus on **AI Governance** and **Model Risk Management**
-- ⚡ I've seen governance from both sides: evaluating controls as an external auditor and building them as an internal analyst
+- 3+ years** in Internal Audit & Corporate Governance
+- Data & AI Engineer** — Python · SQL · Pandas · Machine Learning
+- Future focus on **AI Governance** and **Model Risk Management**
+- I've seen governance from both sides: evaluating controls as an external auditor and building them as an internal analyst
 
 ---
 
-## 🛠 Stack
+##Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -26,10 +26,10 @@ I spent years evaluating internal controls at KPMG and building governance frame
 
 ---
 
-## 📌 Featured Projects
+##Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🏛 [controles-internos](https://github.com/iishaaadow/controles-internos) | Risk & internal controls management system with automatic risk matrix and terminal reports | Python · SQLite |
+|[controles-internos](https://github.com/iishaaadow/controles-internos) | Risk & internal controls management system with automatic risk matrix and terminal reports | Python · SQLite |
 
 
