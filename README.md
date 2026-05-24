@@ -6,7 +6,7 @@ I spent years evaluating internal controls at KPMG and building governance frame
 
 ---
 
-##What I bring to the table
+What I bring to the table
 
 - 3+ years** in Internal Audit & Corporate Governance
 - Data & AI Engineer** — Python · SQL · Pandas · Machine Learning
@@ -15,7 +15,7 @@ I spent years evaluating internal controls at KPMG and building governance frame
 
 ---
 
-##Stack
+Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -26,7 +26,7 @@ I spent years evaluating internal controls at KPMG and building governance frame
 
 ---
 
-##Featured Projects
+Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
